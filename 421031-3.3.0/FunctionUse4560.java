@@ -1,0 +1,7 @@
+import org.apache.hadoop.security.protocolPB.RefreshUserMappingsProtocolClientSideTranslatorPB;
+public class FunctionUse4560 {
+public void funcUse() {
+RefreshUserMappingsProtocolClientSideTranslatorPB refreshusermappingsprotocolclientsidetranslatorpb = new RefreshUserMappingsProtocolClientSideTranslatorPB();
+refreshusermappingsprotocolclientsidetranslatorpb.close();
+}
+}
